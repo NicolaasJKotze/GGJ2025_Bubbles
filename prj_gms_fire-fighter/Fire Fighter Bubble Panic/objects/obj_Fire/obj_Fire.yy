@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
-  "eventList":[],
+  "%Name":"obj_Fire",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object1",
+  "name":"obj_Fire",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,9 +34,6 @@
     "name":"spr_Fire_small",
     "path":"sprites/spr_Fire_small/spr_Fire_small.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_Fire_small",
-    "path":"sprites/spr_Fire_small/spr_Fire_small.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_Bubble_pop",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_Bubble_pop",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Bubble_Drop_Splat",
-    "path":"sprites/spr_Bubble_Drop_Splat/spr_Bubble_Drop_Splat.yy",
+    "name":"spr_Bubble_pop",
+    "path":"sprites/spr_Bubble_pop/spr_Bubble_pop.yy",
   },
   "spriteMaskId":null,
   "visible":true,
