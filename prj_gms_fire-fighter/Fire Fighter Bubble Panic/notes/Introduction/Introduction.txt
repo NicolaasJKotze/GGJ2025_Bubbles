@@ -1,0 +1,31 @@
+Shoot down bubbles over a fire strategically to put out the fires.
+
+Goal: Hold the fire back until it is put out.
+Game Over: Everything is burning and the fire is out of control.
+Genre: Fixed Shooter
+
+Rewards: 
+- End game - fire is out.
+- Animals escaped.
+- Amount of properties saved.
+- Shortest time to put out a fire.
+- Biggest fire put out.
+
+Challenges:
+- Pumping bubbles to life water.
+- Running between pumping bubbles and shooting bubbles.
+- Timing to wait for bubble to be above the best location/fire.
+- Save animals trapped by the fire.
+- Saving the buildings that's on fire.
+- Small bubbles is faster to pump but slower to fly. But can be great to control breakouts and small fires.
+- Bigger bubbles is slower to pump but faster and more effective at flight and fire fighting.
+- Flareups.
+- Some animals are faster to escape, and some are slow. And many wont make it.
+- Holding out for the water drop from the air.
+
+Milestones:
+MVP – Milestone 1: Water Dropping
+Bonus Milestone A: Bubble Pumping
+Bonus Milestone B: Bubble Shooting
+Milestone 4: Audio SFX and Music
+Milestone 5: Menu, Banners and Credits
