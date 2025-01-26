@@ -19,7 +19,8 @@
   "height":100,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"597c2380-2e76-468e-ac23-09a31e4cf5bb","blendMode":0,"displayName":"Text","isLocked":false,"name":"597c2380-2e76-468e-ac23-09a31e4cf5bb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"32c3bb16-fc13-4316-8ecd-c7fd5496908e","blendMode":0,"displayName":"Text Pressed","isLocked":false,"name":"32c3bb16-fc13-4316-8ecd-c7fd5496908e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a3c863f8-afde-48ba-be5e-2e920006613e","blendMode":0,"displayName":"Text","isLocked":false,"name":"a3c863f8-afde-48ba-be5e-2e920006613e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b9cebc06-d110-4677-957a-d85d87ab9f27","blendMode":0,"displayName":"default","isLocked":false,"name":"b9cebc06-d110-4677-957a-d85d87ab9f27","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_Button_Replay",

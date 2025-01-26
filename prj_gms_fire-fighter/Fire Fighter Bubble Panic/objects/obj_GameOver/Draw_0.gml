@@ -27,9 +27,7 @@ draw_text_transformed(room_width / 3, room_height / 3, string("!!SUCCESS!!") + "
 /// @DnDVersion : 1
 /// @DnDHash : 1B891AE3
 /// @DnDArgument : "xpos" "room_width / 2"
-/// @DnDArgument : "xpos_relative" "1"
-/// @DnDArgument : "ypos" "room_height / 2 "
-/// @DnDArgument : "ypos_relative" "1"
+/// @DnDArgument : "ypos" "room_height / 2"
 /// @DnDArgument : "objectid" "obj_btn_Replay"
 /// @DnDSaveInfo : "objectid" "obj_btn_Replay"
-instance_create_layer(x + room_width / 2, y + room_height / 2 , "Instances", obj_btn_Replay);
+instance_create_layer(room_width / 2, room_height / 2, "Instances", obj_btn_Replay);

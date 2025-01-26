@@ -3,11 +3,11 @@
 /// @DnDHash : 403376F5
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "var_Fire_HP + 5"
-/// @DnDArgument : "expr_1" "var_Fire_Size + 0.02"
+/// @DnDArgument : "expr_1" "var_Fire_Size + 0.01"
 /// @DnDArgument : "var" "var_Fire_HP"
 /// @DnDArgument : "var_1" "var_Fire_Size"
 var_Fire_HP = var_Fire_HP + 5;
-var_Fire_Size = var_Fire_Size + 0.02;
+var_Fire_Size = var_Fire_Size + 0.01;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1

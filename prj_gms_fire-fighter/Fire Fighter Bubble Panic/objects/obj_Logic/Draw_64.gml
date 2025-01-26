@@ -29,18 +29,25 @@ draw_text(100, 100, string("Score: " + string(global.var_Score)) + "");
 /// @DnDArgument : "caption" ""Fires Remaining: "  + string(global.var_Fire_Count)"
 draw_text(100, 120, string("Fires Remaining: "  + string(global.var_Fire_Count)) + "");
 
+/// @DnDAction : YoYo Games.Drawing.Set_Font
+/// @DnDVersion : 1
+/// @DnDHash : 74798887
+/// @DnDArgument : "font" "fnt_Consolas_s10"
+/// @DnDSaveInfo : "font" "fnt_Consolas_s10"
+draw_set_font(fnt_Consolas_s10);
+
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 5C016ECC
-/// @DnDArgument : "x" "room_width - 400"
+/// @DnDArgument : "x" "room_width - 250"
 /// @DnDArgument : "y" "room_height - 50"
 /// @DnDArgument : "caption" ""GGJ2025 Version: " + string(GM_version) + " : " + string(GM_build_date)"
-draw_text(room_width - 400, room_height - 50, string("GGJ2025 Version: " + string(GM_version) + " : " + string(GM_build_date)) + "");
+draw_text(room_width - 250, room_height - 50, string("GGJ2025 Version: " + string(GM_version) + " : " + string(GM_build_date)) + "");
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 74954811
-/// @DnDArgument : "x" "room_width - 400"
+/// @DnDArgument : "x" "room_width - 250"
 /// @DnDArgument : "y" "room_height - 30"
-/// @DnDArgument : "caption" ""Effort: 15hrs" "
-draw_text(room_width - 400, room_height - 30, string("Effort: 15hrs" ) + "");
+/// @DnDArgument : "caption" ""Effort: 22hrs" "
+draw_text(room_width - 250, room_height - 30, string("Effort: 22hrs" ) + "");

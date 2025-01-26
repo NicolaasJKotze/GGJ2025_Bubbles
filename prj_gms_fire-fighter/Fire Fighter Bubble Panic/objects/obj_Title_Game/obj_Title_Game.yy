@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_btn_Quit",
+  "%Name":"obj_Title_Game",
   "eventList":[],
   "managed":true,
-  "name":"obj_btn_Quit",
+  "name":"obj_Title_Game",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buttons",
-    "path":"folders/Objects/GUIcomponents/Buttons.yy",
+    "name":"Banners",
+    "path":"folders/Objects/GUIcomponents/Banners.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_GameTitle",
+    "path":"sprites/spr_GameTitle/spr_GameTitle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

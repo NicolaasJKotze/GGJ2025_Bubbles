@@ -27,7 +27,7 @@ audio_play_sound(snd_FX_Bubble_Pop, 0, 0, 1.0, undefined, 1.0);
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 64536711
-/// @DnDArgument : "value" "5"
+/// @DnDArgument : "value" "1"
 /// @DnDArgument : "value_relative" "1"
 /// @DnDArgument : "var" "global.var_Score"
-global.var_Score += 5;
+global.var_Score += 1;

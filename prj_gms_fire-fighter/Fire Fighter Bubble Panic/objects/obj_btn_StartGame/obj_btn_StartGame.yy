@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_btn_StartGame",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_btn_StartGame",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Button_Start",
+    "path":"sprites/spr_Button_Start/spr_Button_Start.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

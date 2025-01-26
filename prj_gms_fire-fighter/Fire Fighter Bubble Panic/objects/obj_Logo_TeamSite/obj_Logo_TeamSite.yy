@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object19",
+  "%Name":"obj_Logo_TeamSite",
   "eventList":[],
   "managed":true,
-  "name":"Object19",
+  "name":"obj_Logo_TeamSite",
   "overriddenProperties":[],
   "parent":{
-    "name":"Buttons",
-    "path":"folders/Objects/GUIcomponents/Buttons.yy",
+    "name":"Banners",
+    "path":"folders/Objects/GUIcomponents/Banners.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_Banner_Conjunctiv",
+    "path":"sprites/spr_Banner_Conjunctiv/spr_Banner_Conjunctiv.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
