@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_Bubble_drop",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":63,
   "bbox_left":17,
   "bbox_right":47,
-  "bbox_top":1,
+  "bbox_top":43,
   "collisionKind":2,
   "collisionTolerance":141,
   "DynamicTexturePage":false,

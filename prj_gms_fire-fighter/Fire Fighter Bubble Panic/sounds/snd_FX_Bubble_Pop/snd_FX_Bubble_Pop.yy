@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_FX_Bubble_Pop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":96,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.504,
+  "name":"snd_FX_Bubble_Pop",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/Sounds/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_FX_Bubble_Pop.mp3",
+  "type":0,
+  "volume":1.0,
+}

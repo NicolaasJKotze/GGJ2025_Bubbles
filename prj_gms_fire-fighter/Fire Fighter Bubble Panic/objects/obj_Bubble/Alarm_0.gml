@@ -2,12 +2,12 @@
 /// @DnDVersion : 1
 /// @DnDHash : 70ED1098
 /// @DnDInput : 2
-/// @DnDArgument : "expr" "random_range(0, 100)"
-/// @DnDArgument : "expr_1" "random_range(0,2)"
+/// @DnDArgument : "expr" "random_range(0, 45)"
+/// @DnDArgument : "expr_1" "random_range(0,3)"
 /// @DnDArgument : "var" "var_Bubble_Direction"
 /// @DnDArgument : "var_1" "var_Bubble_Speed"
-var_Bubble_Direction = random_range(0, 100);
-var_Bubble_Speed = random_range(0,2);
+var_Bubble_Direction = random_range(0, 45);
+var_Bubble_Speed = random_range(0,3);
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Free
 /// @DnDVersion : 1

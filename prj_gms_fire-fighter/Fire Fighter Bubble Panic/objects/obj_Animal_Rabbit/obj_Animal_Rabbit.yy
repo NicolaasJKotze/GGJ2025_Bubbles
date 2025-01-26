@@ -6,8 +6,8 @@
   "name":"obj_Animal_Rabbit",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Animals",
+    "path":"folders/Objects/Animals.yy",
   },
   "parentObjectId":null,
   "persistent":false,
