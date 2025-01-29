@@ -11,11 +11,18 @@ My Global Game Jam 2025 game(s).
 
 ![team banner image.](docs/ConjunctivBanner_xAlphaLielie.png?raw=true)
 
+![Tutorial video.](kdenlive/GGJ2025edition_FFBP_QuickPlaythrough_demo.mp4?raw=true)
+
+This video is also available on YouTube at (https://youtu.be/cCu3qWzlwbM)
+
 Freeplane was used to create a mindmap to aid in brainstorming ideas.
 ![mindmap for brainstorming.](docs/mindmap_GGJ2025_Bubbles.jpg?raw=true)
 
 ## How it started
 ![concept art of idea.](docs/Concept_FFBP.jpeg?raw=true)
+
+The idea. As you can see, a lot of features, and so little time.
+
 
 Shoot down bubbles over a fire strategically to put out the fires. Since the recent fires on Paarl mountain and in California, I think this idea can fall into a Games 4 Change category later as well with story and intro etc. 
 
@@ -64,11 +71,13 @@ Shoot down bubbles over a fire strategically to put out the fires. Since the rec
 ## 1st Layout Draft of Assets
 Did this to feel the flow of moving the mouse and clicking. Trying to determine some basic useful UX that also provide some challenge.
 Yes the golden rule in games is player should not battle the controls.
+
 ![team banner image.](docs/FFBP_1stScreenLayout.jpeg?raw=true)
 
 ## 1st basic logic
 Click the white button to create a bubble and click on the bubble to pop.
 No random wind or size logic exist yet and only one balloon can be created per click.
+
 ![team banner image.](docs/FFBP_1stScreenGameFlowLogic.jpeg?raw=true)
 
 ## Title screen and menu
