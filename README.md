@@ -38,7 +38,7 @@ Shoot down bubbles over a fire strategically to put out the fires. Since the rec
 5. Biggest fire put out.
 
 **Challenges**:
-1. Pumping bubbles to life water.
+1. Pumping bubbles to save water. The water tanks takes time to refuel.
 
 2. Running between pumping bubbles and shooting bubbles.
 
@@ -61,14 +61,28 @@ Shoot down bubbles over a fire strategically to put out the fires. Since the rec
 ## Work Breakdown
 ![team banner image.](docs/GGJ2025_TaskBoard.jpeg?raw=true)
 
+## 1st Layout Draft of Assets
+Did this to feel the flow of moving the mouse and clicking. Trying to determine some basic useful UX that also provide some challenge.
+Yes the golden rule in games is player should not battle the controls.
+![team banner image.](docs/FFBP_1stScreenLayout.jpeg?raw=true)
+
+## 1st basic logic
+Click the white button to create a bubble and click on the bubble to pop.
+No random wind or size logic exist yet and only one balloon can be created per click.
+![team banner image.](docs/FFBP_1stScreenGameFlowLogic.jpeg?raw=true)
+
 ## Title screen and menu
 ![team banner image.](docs/GameTitle_FFBP.jpeg?raw=true)
 
 ## Screenshot
 ![team banner image.](docs/GameplayScreenshot01.jpeg?raw=true)
 
+## Credits
+**Music and SFX** - Shawn van Staden (https://linktr.ee/shawnvanstaden)
 
-Total Effort: 22hrs from concept to submission.
+**Everything else** - Nicolaas J. Kotze
+
+**Total Effort**: 22hrs from concept to submission.
 
 ## Gameplay
 Left click and hold on the pump to create water bubbles. Click on a bubble to pop it. Try to extinguish all the fires, or try to control it for as long as possible to achieve a high score.
@@ -78,7 +92,15 @@ Left click and hold on the pump to create water bubbles. Click on a bubble to po
 
 2. Deploy to HTML causes an error on loading the game in the browser. Workaround is to export it using the gx.games experter instead.
 
-3. There are bugs, but I'll keep it secret for now as this game is great fro tester training.
+3. Since rough placeholder art has been used, it made it difficult to determine the style of music so that the composer could start early. Luckily, we kept it simple and it worked well enough in the end with only 2 SFX and 1 song. 
+
+4. There are bugs and missing features, but I'll keep it secret for now as this game is great fro tester training.
+
+## Overall Experience
+The direction went well. Will be nice to add the extra features. Proud that at the moment the game only uses 1 button, left-click, to do everything. Also, everything asset was self made, no 3rd party assets and no AI. 
+Some research into designing art from the music or the music from the art. I think it depends on who is available and their skills and contribusion level. 
+The fun part was also re-learning GameMaker Studio after 4 years not touching it. Maybe more jams are required and experiment with other tools as well.
+Also, during design, it will be wise to have a diagram of the room resolusion and then mark how big 64x64, 128x128, 256x256 will be to reduce resource utilisation and faster decision making.
 
 ## Tutorials Used in the making of...
 ![How To Make Platformer Movement in 5 Minutes](https://www.youtube.com/watch?v=-5sBIUiutAk)
